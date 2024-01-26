@@ -6,11 +6,16 @@ This repository contains the source code for a simple implementation of the popu
 
 To run the game, follow these steps:
 
-1. Open the project in Qt Creator or your preferred C++ IDE that supports Qt development.
+1. Clone the repository:
 
-2. Build and compile the project.
+   ```bash
+   git clone https://github.com/drstrange102/2048-Game.git
+   
+2. Open the project in Qt Creator or your preferred C++ IDE that supports Qt development.
 
-3. Run the executable to start the game.
+3. Build and compile the project.
+
+4. Run the executable to start the game.
 
 
 ## How to Play
@@ -43,4 +48,5 @@ To build and run the game, you need the following:
 
 - Qt5 framework
 
-   
+
+
